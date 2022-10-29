@@ -1,6 +1,6 @@
-- Hi, I’m @DizzyDreams
-- my pronuns are he/they
-- I’m currently learning .js
+- Hi, I’m @theglamrock sys
+- my pronuns are any !
+- I’m currently learning html & python
 - i am new to coding
 - i hope we can be friends ! ^^
 <!---
